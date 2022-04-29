@@ -1,0 +1,11 @@
+
+Epoch 1/50: 100%|██████████| 589/589 [20:31<00:00,  2.09s/batch, avg_enc_loss=-.222, acg_dis_loss=1.44, acg_rec_loss=0.221]
+Epoch 2/50:  25%|██▍       | 145/589 [04:24<14:04,  1.90s/batch, avg_enc_loss=-.218, acg_dis_loss=0.219, acg_rec_loss=0.197]
+
+Epoch 1/50:  48%|████▊     | 281/589 [09:14<10:07,  1.97s/batch, avg_enc_loss=-.314, acg_dis_loss=0.00849, acg_rec_loss=0.267]
+
+encoder没有震荡
+
+- instanceNorm2d
+- No mapping
+- Enhanced discriminator —— assemble the decoder
